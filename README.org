@@ -7,8 +7,65 @@ A pull request for the faker library
 *** Prepare names
 **** DONE Collect names
 CLOSED: [2017-05-11 Thu 10:44]
-**** Remove translations (in parentheses)
+**** DONE Separate commas
+CLOSED: [2017-05-11 Thu 12:52]
+**** Resort
+**** Clean up unexpected symbols
+***** &
+***** ...
+***** or
+**** Look through Drs and DDS and ists
 **** Remove offensive ones
+***** DONE cock
+CLOSED: [2017-05-11 Thu 12:24]
+***** DONE dick
+CLOSED: [2017-05-11 Thu 12:25]
+***** DONE job
+CLOSED: [2017-05-11 Thu 12:25]
+***** DONE whore
+CLOSED: [2017-05-11 Thu 12:25]
+***** DONE willie
+CLOSED: [2017-05-11 Thu 12:27]
+***** DONE cunt
+CLOSED: [2017-05-11 Thu 12:27]
+***** DONE suck
+CLOSED: [2017-05-11 Thu 12:28]
+***** DONE fuck
+CLOSED: [2017-05-11 Thu 12:28]
+***** DONE nuts
+CLOSED: [2017-05-11 Thu 12:28]
+***** DONE tits
+CLOSED: [2017-05-11 Thu 12:29]
+***** DONE nipples
+CLOSED: [2017-05-11 Thu 12:29]
+***** DONE her
+CLOSED: [2017-05-11 Thu 12:33]
+***** DONE bang
+CLOSED: [2017-05-11 Thu 12:33]
+***** DONE hump
+CLOSED: [2017-05-11 Thu 12:33]
+***** DONE behind
+CLOSED: [2017-05-11 Thu 12:33]
+***** DONE cherry
+CLOSED: [2017-05-11 Thu 12:33]
+***** DONE testicle
+CLOSED: [2017-05-11 Thu 12:34]
+***** DONE ball
+CLOSED: [2017-05-11 Thu 12:35]
+***** DONE sack
+CLOSED: [2017-05-11 Thu 12:35]
+***** DONE sex
+CLOSED: [2017-05-11 Thu 12:39]
+***** gyn
+***** weiner
+***** blow
+***** moan
+***** ness
+***** pussy
+***** tit
+**** Remove translations (in parentheses)
+\s\(.*
+**** Remove duplicates
 *** Prepare code
 **** DONE Fork repo
 CLOSED: [2017-05-11 Thu 10:50]
