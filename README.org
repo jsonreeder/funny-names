@@ -1,0 +1,26 @@
+* Funny Names
+A pull request for the faker library
+** GL
+- Keep it PG-13
+- No sex, drugs, violence, or racism
+** Process
+*** Prepare names
+**** DONE Collect names
+CLOSED: [2017-05-11 Thu 10:44]
+**** Remove translations (in parentheses)
+**** Remove offensive ones
+*** Prepare code
+**** DONE Fork repo
+CLOSED: [2017-05-11 Thu 10:50]
+**** DONE Run tests and environment
+CLOSED: [2017-05-11 Thu 10:50]
+**** Add tests for change and make pass
+***** Base off of Name api
+Faker::Name.name             #=> "Tyshawn Johns Sr."
+Faker::Name.name_with_middle #=> "Aditya Elton Douglas"
+Faker::Name.first_name       #=> "Kaci"
+Faker::Name.last_name        #=> "Ernser"
+Faker::Name.prefix           #=> "Mr."
+Faker::Name.suffix           #=> "IV"
+Faker::Name.title            #=> "Legacy Creative Director"
+**** Add docs
