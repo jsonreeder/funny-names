@@ -91,7 +91,8 @@ CLOSED: [2017-05-11 Thu 12:55]
 CLOSED: [2017-05-11 Thu 12:55]
 ***** DONE tit
 CLOSED: [2017-05-11 Thu 12:55]
-**** Remove translations (in parentheses)
+**** DONE Remove translations (in parentheses)
+CLOSED: [2017-05-11 Thu 13:05]
 \s\(.*
 **** Remove duplicates
 **** Read through
