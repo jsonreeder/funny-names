@@ -13,8 +13,6 @@ Adam Zapel (adam's apple)
 Agatha L. Outtathere
 Al B. Tross
 Al B. Zienya (I'll Be Seeing You)
-Al Bino
-Al Bino (albino)
 Al DePantzeu (I'll De-Pants You)
 Al Dente
 Al Dente
@@ -127,7 +125,8 @@ Barry Shmelly (Very Smelly)
 Bart Ender (Bartender)
 Bea Lowe
 Bea Minor (be a miner)
-Bea Minor and Dee Major
+Bea Minor
+Dee Major
 Bea O'Problem (B.O. Problem)
 Bea Sting (Bee Sting)
 Beau Archer
@@ -347,7 +346,7 @@ Dinah Might
 Dinah Soares
 Dinah Soares (dinosaurs)
 Dinah Sore (Dinosaur)
-Doll R. Bill...(Dollar Bill)
+Doll R. Bill
 Don Key
 Don Key (donkey)
 Don Thatt (Done That)
@@ -375,7 +374,6 @@ Dr. Gass (allegedly a real anesthesiologist)
 Dr. Gutstein
 Dr. Hanus
 Dr. Hurt (real pediatrician in Saginaw, MI)
-Dr. Hymen
 Dr. I. Ball (optometrist)
 Dr. Kauff
 Dr. Look (real opthalmologist in Hawaii)
@@ -384,7 +382,6 @@ Dr. Payne (Dr Pain)
 Dr. Payne (plastic surgeon in Sandusky, OH)
 Dr. Pullham
 Dr. Robert Fallis, real doctor who does vasectomies)
-Dr. Shelly Fingerhood (real OB/GYN)
 Dr. Slaughter
 Dr. Steven Sumey
 Drew Blood (Drew Blood)
@@ -408,7 +405,8 @@ Earl Lee Riser
 Earl Lee Riser (early riser)
 Easton West (and of course Weston East)
 Easton West (east and west)
-Eaton Wright and Liv Good
+Eaton Wright
+Liv Good
 Ebony Wood
 Ed Ible (Edible)
 Ed Jewcation (Education)
@@ -448,9 +446,6 @@ Eve Ning (Evening)
 Eve O'Lution (Evolution)
 Ewan Whatarmy (You and What Army?)
 Faith Christian
-Fanny Hertz
-Fanny O'Rear
-Fanny Shining
 Father A. Long
 Father of boxer Max
 Faye Kinnitt (Faking It)
@@ -540,7 +535,6 @@ Helena Hanbaskett (Hell In A Hand Basket)
 Herb E. Side (Herbiside)
 Herbie Voor (Herbivore)
 Hilda Climb
-Holden Mcgroin (Holding My Groin)
 Holly Day
 Holly Day (holiday)
 Holly Dayin (Holiday Inn)
@@ -952,10 +946,6 @@ Park A. Studebaker
 Parker Carr
 Pat Downe 
 Pat Downe (a real person)
-Pat Fanny
-Pat May Weiner
-Pat McCann
-Pat McGroin
 Pat Pending
 Patience Wait (a real person)
 Patty Meltt (Umm....Patty Melt)
@@ -1245,7 +1235,6 @@ Tom Morrow
 Tom Morrow (tomorrow)
 Tommy Gunn
 Tommy Hawk
-Torah Hyman (Tore a Hymen)
 Trina Forest (tree in a forest)
 Trina Forest (tree in the woods, tree in a forest)
 Trina Woods

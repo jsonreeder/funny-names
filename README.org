@@ -9,13 +9,21 @@ A pull request for the faker library
 CLOSED: [2017-05-11 Thu 10:44]
 **** DONE Separate commas
 CLOSED: [2017-05-11 Thu 12:52]
-**** Resort
-**** Clean up unexpected symbols
-***** &
-***** ...
-***** or
+**** DONE Resort
+CLOSED: [2017-05-11 Thu 12:55]
+**** DONE Clean up unexpected symbols
+CLOSED: [2017-05-11 Thu 12:59]
+***** DONE &
+CLOSED: [2017-05-11 Thu 12:56]
+***** DONE ...
+CLOSED: [2017-05-11 Thu 12:57]
+***** DONE or
+CLOSED: [2017-05-11 Thu 12:57]
+***** DONE and
+CLOSED: [2017-05-11 Thu 12:58]
 **** Look through Drs and DDS and ists
-**** Remove offensive ones
+**** DONE Remove offensive ones
+CLOSED: [2017-05-11 Thu 12:56]
 ***** DONE cock
 CLOSED: [2017-05-11 Thu 12:24]
 ***** DONE dick
@@ -56,16 +64,28 @@ CLOSED: [2017-05-11 Thu 12:35]
 CLOSED: [2017-05-11 Thu 12:35]
 ***** DONE sex
 CLOSED: [2017-05-11 Thu 12:39]
-***** gyn
-***** weiner
-***** blow
-***** moan
-***** ness
-***** pussy
-***** tit
+***** DONE gyn
+CLOSED: [2017-05-11 Thu 12:53]
+***** DONE weiner
+CLOSED: [2017-05-11 Thu 12:53]
+***** DONE groin
+CLOSED: [2017-05-11 Thu 12:54]
+***** DONE fanny
+CLOSED: [2017-05-11 Thu 12:54]
+***** DONE blow
+CLOSED: [2017-05-11 Thu 12:54]
+***** DONE moan
+CLOSED: [2017-05-11 Thu 12:55]
+***** DONE ness
+CLOSED: [2017-05-11 Thu 12:55]
+***** DONE pussy
+CLOSED: [2017-05-11 Thu 12:55]
+***** DONE tit
+CLOSED: [2017-05-11 Thu 12:55]
 **** Remove translations (in parentheses)
 \s\(.*
 **** Remove duplicates
+**** Read through
 *** Prepare code
 **** DONE Fork repo
 CLOSED: [2017-05-11 Thu 10:50]
