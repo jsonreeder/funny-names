@@ -21,7 +21,16 @@ CLOSED: [2017-05-11 Thu 12:57]
 CLOSED: [2017-05-11 Thu 12:57]
 ***** DONE and
 CLOSED: [2017-05-11 Thu 12:58]
-**** Look through Drs and DDS and ists
+**** DONE Look through Drs and DDS and ists
+CLOSED: [2017-05-11 Thu 13:02]
+***** DONE Make all ists 'dr's
+CLOSED: [2017-05-11 Thu 13:00]
+***** DONE Make all DDSs drs
+CLOSED: [2017-05-11 Thu 13:01]
+***** DONE Resort
+CLOSED: [2017-05-11 Thu 13:02]
+***** DONE Cull drs
+CLOSED: [2017-05-11 Thu 13:02]
 **** DONE Remove offensive ones
 CLOSED: [2017-05-11 Thu 12:56]
 ***** DONE cock

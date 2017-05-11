@@ -124,9 +124,8 @@ Barry D. Hatchett (Bury the Hatchett)
 Barry Shmelly (Very Smelly)
 Bart Ender (Bartender)
 Bea Lowe
-Bea Minor (be a miner)
 Bea Minor
-Dee Major
+Bea Minor (be a miner)
 Bea O'Problem (B.O. Problem)
 Bea Sting (Bee Sting)
 Beau Archer
@@ -304,7 +303,6 @@ Curt N. Rodd (Curtain Rod)
 Curt Zee (Curtsy)
 Cy Burns (Sideburns)
 Cy Kosis (Psychosis)
-D. Kay, DDS
 D. Liver
 Daisy Chain
 Daisy Picking
@@ -332,6 +330,7 @@ Dear Beloved (real person)
 Dee Capitated (Decapitated)
 Dee Faced (Defaced)
 Dee Flower
+Dee Major
 Dee Sember (December)
 Dee Zaster
 Denise Shaking
@@ -366,24 +365,24 @@ Doug Updegrave
 Doug Witherspoon
 Douglas Furr
 Douglas S. Halfempty (The Glass is Half Empty)
-Dr. DeKay, DDS
+Dr. D. Kay
+Dr. DeKay
 Dr. E. Ville
+Dr. Edward Z. Filler
 Dr. Frank Bonebreak (real doctor)
 Dr. Franklin Stein (real doctor)
-Dr. Gass (allegedly a real anesthesiologist)
-Dr. Gutstein
 Dr. Hanus
 Dr. Hurt (real pediatrician in Saginaw, MI)
 Dr. I. Ball (optometrist)
+Dr. I. Pullem (allegedly a real dentist)
 Dr. Kauff
-Dr. Look (real opthalmologist in Hawaii)
-Dr. Looney - a psychiatrist of course!
+Dr. Kent C. Strait (an optometrist, of course!)
+Dr. Les Payne - should be an anesthesiologist
+Dr. Les Plack, a real dentist
 Dr. Payne (Dr Pain)
 Dr. Payne (plastic surgeon in Sandusky, OH)
+Dr. Phil Wright, DDS (real dentist in Anchorage, AK)
 Dr. Pullham
-Dr. Robert Fallis, real doctor who does vasectomies)
-Dr. Slaughter
-Dr. Steven Sumey
 Drew Blood (Drew Blood)
 Duane DeVane (Drain the Vain)
 Duane Pipe
@@ -406,7 +405,6 @@ Earl Lee Riser (early riser)
 Easton West (and of course Weston East)
 Easton West (east and west)
 Eaton Wright
-Liv Good
 Ebony Wood
 Ed Ible (Edible)
 Ed Jewcation (Education)
@@ -414,7 +412,6 @@ Ed Venture (Adventure)
 Eddie Bull
 Edna May (or may not)
 Edna May (or may not)
-Edward Z. Filler, DDS
 Eileen Dover
 Eileen Dover
 Eileen Dover (I Leaned Over)
@@ -568,7 +565,6 @@ Hy Marx (scholar)
 Hy Price
 Hy Price
 I. Lasch
-I. Pullem (allegedly a real dentist)
 I. Ron Stomach (Iron Stomach)
 I.D. Clair
 I.M. Boring
@@ -696,7 +692,6 @@ Ken Oppenner (Can Opener)
 Kenitra Bush (Can I Eat Your Bush)
 Kenny Dewitt (Can He Do It?)
 Kenny Penny
-Kent C. Strait (an optometrist, of course!)
 Kent Cook (Can't Cook)
 Kenya Dewit
 Kerry Oki
@@ -728,8 +723,6 @@ Leigh King (leaking)
 Len DeHande (Lend a Hand)
 Leo Tarred (Leotard)
 Les Moore
-Les Payne - should be an anesthesiologist
-Les Plack, a real dentist
 Levon Coates
 Lewis N. Clark (real person, he told me he drives an Explorer)
 Lily Livard (Lily Livered)
@@ -743,6 +736,7 @@ Lisa Honda
 Lisa May Boyle
 Lisa May Dye
 Lisa Neucar (Lease a New Car)
+Liv Good
 Liv Long
 Liz Onnia (Lasagna)
 Lois Price
@@ -999,7 +993,6 @@ Phil Mypockets (Fill my pockets)
 Phil N. Underwear
 Phil Rupp
 Phil Updegrave
-Phil Wright, DDS (real dentist in Anchorage, AK)
 Phillip D. Bagg (partner of Robin Banks below)
 Phillip McCrevice (Fill up my Crevice)
 Phyllis Schlong (Feel his Shlong)
