@@ -96,6 +96,15 @@ CLOSED: [2017-05-11 Thu 13:05]
 \s\(.*
 **** DONE Remove duplicates
 CLOSED: [2017-05-11 Thu 13:06]
+**** DONE Remove missed modfiers
+CLOSED: [2017-05-11 Thu 13:09]
+***** DONE -
+CLOSED: [2017-05-11 Thu 13:08]
+***** DONE Commas
+CLOSED: [2017-05-11 Thu 13:08]
+***** DONE or
+CLOSED: [2017-05-11 Thu 13:09]
+**** Remove single words
 **** Read through
 *** Prepare code
 **** DONE Fork repo
