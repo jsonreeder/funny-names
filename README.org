@@ -104,7 +104,8 @@ CLOSED: [2017-05-11 Thu 13:08]
 CLOSED: [2017-05-11 Thu 13:08]
 ***** DONE or
 CLOSED: [2017-05-11 Thu 13:09]
-**** Remove single words
+**** DONE Remove single words
+CLOSED: [2017-05-11 Thu 13:12]
 **** Read through
 *** Prepare code
 **** DONE Fork repo
@@ -120,4 +121,16 @@ Faker::Name.last_name        #=> "Ernser"
 Faker::Name.prefix           #=> "Mr."
 Faker::Name.suffix           #=> "IV"
 Faker::Name.title            #=> "Legacy Creative Director"
+***** API
+****** name
+selects from all
+****** with initial
+selects one with an initial
+****** dr
+with a DR. prefix
+****** first_last
+selects two word combos
+^([a-zA-Z\.\-\']+\s?){2}$
+****** first_middle_last
+selects three word combos
 **** Add docs
