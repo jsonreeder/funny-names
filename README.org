@@ -107,6 +107,8 @@ CLOSED: [2017-05-11 Thu 13:09]
 **** DONE Remove single words
 CLOSED: [2017-05-11 Thu 13:12]
 **** Read through
+**** Replace hyphens with spaces
+**** Final sort
 *** Prepare code
 **** DONE Fork repo
 CLOSED: [2017-05-11 Thu 10:50]
@@ -126,8 +128,6 @@ Faker::Name.title            #=> "Legacy Creative Director"
 selects from all
 ****** with initial
 selects one with an initial
-****** dr
-with a DR. prefix
 ****** first_last
 selects two word combos
 ^([a-zA-Z\.\-\']+\s?){2}$
