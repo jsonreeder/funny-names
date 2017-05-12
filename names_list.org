@@ -13,7 +13,7 @@ Al B. Tross
 Al B. Zienya
 Al Dente
 Al Fresco
-Al Gore-Rythim
+Al Gore Rythim
 Al K. Seltzer
 Al Kaholic
 Al Kaseltzer
@@ -67,9 +67,9 @@ Artie Choke
 Ayma Moron
 B.A. Ware
 Barb Dwyer
+Barb Dwyer
 Barb E. Cue
 Barb E. Dahl
-Barb Dwyer
 Barry Cade
 Barry D'Alive
 Barry D. Hatchett
@@ -196,6 +196,7 @@ Danielle Soloud
 Darrell B. Moore
 Darren Deeds
 Darryl Likt
+Dee Kay
 Dee Liver
 Dee Major
 Dee Sember
@@ -215,18 +216,11 @@ Doris Open
 Doris Schutt
 Doug Graves
 Doug Hole
-Doug Love-Fitzhugh
+Doug Love Fitzhugh
 Doug Updegrave
 Doug Witherspoon
 Douglas Furr
 Douglas S. Halfempty
-Dee Kay
-E. Ville
-I. Ball
-I. Pullem
-Kenney C. Strait
-Les Payne
-Les Plack
 Drew Blood
 Duane DeVane
 Duane Pipe
@@ -236,6 +230,7 @@ Dusty Rhodes
 Dusty Sandmann
 Dusty Storm
 Dwayne Pipe
+E. Ville
 Earl E. Byrd
 Earl Lee Riser
 Easton West
@@ -325,18 +320,20 @@ Hy Gene
 Hy Lowe
 Hy Marx
 Hy Price
-I. Lasch
-I. Ron Stomach
+I. Ball
 I. D. Clair
+I. Lasch
 I. M. Boring
 I. P. Daly
 I. P. Freely
+I. Pullem
+I. Ron Stomach
 Ida Whana
 Igor Beaver
 Ilene Dover
 Ilene East
-Ilene North
 Ilene Left
+Ilene North
 Ilene South
 Ilene West
 Ilene Wright
@@ -407,6 +404,7 @@ Kay Mart
 Kay Neine
 Ken Dahl
 Ken Oppenner
+Kenney C. Strait
 Kenny Dewitt
 Kenny Penny
 Kent Cook
@@ -424,6 +422,8 @@ Leigh King
 Len DeHande
 Leo Tarred
 Les Moore
+Les Payne
+Les Plack
 Lily Livard
 Lily Pond
 Lina Ginster
@@ -472,7 +472,6 @@ Marty Graw
 Marv Ellis
 Mary A. Richman
 Mary Ann Bright
-Trina Corder
 Mary Gold
 Mary Ott
 Mary Thonn
@@ -713,6 +712,7 @@ Tom Katz
 Tom Morrow
 Tommy Gunn
 Tommy Hawk
+Trina Corder
 Trina Forest
 Trina Woods
 Ty Coon

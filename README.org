@@ -106,9 +106,12 @@ CLOSED: [2017-05-11 Thu 13:08]
 CLOSED: [2017-05-11 Thu 13:09]
 **** DONE Remove single words
 CLOSED: [2017-05-11 Thu 13:12]
-**** Read through
-**** Replace hyphens with spaces
-**** Final sort
+**** DONE Read through
+CLOSED: [2017-05-12 Fri 11:34]
+**** DONE Replace hyphens with spaces
+CLOSED: [2017-05-12 Fri 11:34]
+**** DONE Final sort
+CLOSED: [2017-05-12 Fri 11:35]
 *** Prepare code
 **** DONE Fork repo
 CLOSED: [2017-05-11 Thu 10:50]
@@ -123,6 +126,10 @@ Faker::Name.last_name        #=> "Ernser"
 Faker::Name.prefix           #=> "Mr."
 Faker::Name.suffix           #=> "IV"
 Faker::Name.title            #=> "Legacy Creative Director"
+***** How to organize?
+- Would it be better to store them as arrays based on length (and random from them) or to store them as one array (and use regexes)?
+  - The most common operation will be random among them.
+  - The less common ones will be finding a name of a certain length or content
 ***** API
 ****** name
 selects from all
