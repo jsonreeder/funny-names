@@ -4,7 +4,8 @@ A pull request for the faker library
 - Keep it PG-13
 - No sex, drugs, violence, or racism
 ** Process
-*** Prepare names
+*** DONE Prepare names
+CLOSED: [2017-05-12 Fri 15:12]
 **** DONE Collect names
 CLOSED: [2017-05-11 Thu 10:44]
 **** DONE Separate commas
@@ -112,12 +113,14 @@ CLOSED: [2017-05-12 Fri 11:34]
 CLOSED: [2017-05-12 Fri 11:34]
 **** DONE Final sort
 CLOSED: [2017-05-12 Fri 11:35]
-*** Prepare code
+*** DONE Prepare code
+CLOSED: [2017-05-12 Fri 15:12]
 **** DONE Fork repo
 CLOSED: [2017-05-11 Thu 10:50]
 **** DONE Run tests and environment
 CLOSED: [2017-05-11 Thu 10:50]
-**** Add tests for change and make pass
+**** DONE Add tests for change and make pass
+CLOSED: [2017-05-12 Fri 12:12]
 ***** Base off of Name api
 Faker::Name.name             #=> "Tyshawn Johns Sr."
 Faker::Name.name_with_middle #=> "Aditya Elton Douglas"
@@ -140,4 +143,11 @@ selects two word combos
 ^([a-zA-Z\.\-\']+\s?){2}$
 ****** first_middle_last
 selects three word combos
-**** Add docs
+**** DONE Add docs
+CLOSED: [2017-05-12 Fri 14:58]
+**** DONE Rebase
+CLOSED: [2017-05-12 Fri 14:58]
+**** DONE Fix leak
+CLOSED: [2017-05-12 Fri 15:12]
+RuntimeError: Faker::FunnyName.name_with_initial has an entropy leak; use "Faker::Config.random.rand" or "Array#sample(random: Faker::Config.random)". Method to lookup for: sample, shuffle, rand
+*** Pull request
